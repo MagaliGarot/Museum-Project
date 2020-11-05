@@ -7,7 +7,13 @@ Teamwork with division of tasks and construction of web pages from a precise wir
 ## Link to exercice
 https://github.com/becodeorg/LIE-Hamilton-4.25/tree/master/01-main-course/01-the-field/04-html-css/03-client-project
 
-[Visit our museum of London Responsive website](https://macmowl.github.io/museum-project/index.html)
+## Link to project
+
+[Home Page](https://magaligarot.github.io/Museum-Project/)
+
+[Event Page](https://magaligarot.github.io/Museum-Project/events.html)
+
+[Event Details Page](https://magaligarot.github.io/Museum-Project/event_details.html)
 
 ## Tasks
 
