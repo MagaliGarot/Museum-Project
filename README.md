@@ -17,7 +17,8 @@ https://github.com/becodeorg/LIE-Hamilton-4.25/tree/master/01-main-course/01-the
 
 ## Tasks
 
-Header, Footer and homepage : **Alan Massaro**
+Header, Footer and homepage : [**Alan Massaro**](https://github.com/macmowl)
+
 
 Events and Events-details : **Magali Garot**
 
